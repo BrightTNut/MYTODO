@@ -42,7 +42,7 @@ const Home = () => {
           onClick={signInWithGoogle}
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
         >
-          Sign In With Sundar Bhai Product
+          Sign In With Google
         </button>
       )}
     </div>
