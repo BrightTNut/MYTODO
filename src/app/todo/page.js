@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import { db } from "../../../config";
+import { db } from "../config";
 import {
   collection,
   addDoc,
